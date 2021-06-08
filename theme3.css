@@ -1,0 +1,55 @@
+h1 {
+	font-size: 60pt;
+	color: #B9F9B0;
+	margin-left: 40px;
+	text-shadow: 4px 4px #DC143C;
+
+}
+
+
+a {
+	color: Crimson
+	
+}
+
+
+
+
+body {
+	background-image: url(Photo/suzuki.jpg);
+	background-color: #ABE0A3;
+	font-family: 'Playfair Display', serif;
+}
+
+
+div.gold {
+	
+	width: 250;
+	height: 210;
+
+}
+	
+
+	
+
+div {
+	border: 3px solid;
+	width: 600;
+	height: auto;
+	margin-bottom: 20px;
+	border-color: SeaGreen;
+	background-color: #B9F9B0;
+	border-radius: 25px;
+	padding: 20px;
+	
+}
+
+img {
+	float: right;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	border: 3px solid;
+	border-color: SeaGreen;
+	border-radius: 25px;
+	
